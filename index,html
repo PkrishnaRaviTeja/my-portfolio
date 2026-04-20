@@ -9,8 +9,12 @@
 <h2>About Me</h2>
 <p>I am learning web development and GitHub</p>
 
+<h2>Contact</h2>
+<p>Email: poluparthiraviteja1234@gmail.com</p>
+
 <h1>Hi, I'm Ravi Teja</h1>
 <p>This is my portfolio website</p>
 
 <script src="script.js"></script>
 </body>
+<!-- updated -->
